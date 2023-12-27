@@ -1,0 +1,10 @@
+execute as @e[tag=cat_tower,scores={cat_height=80}] at @s run function kitten_tag:game/cat_tower/teleport
+execute as @e[tag=cat_tower,scores={cat_height=79}] at @s run function kitten_tag:game/cat_tower/teleport
+execute as @e[tag=cat_tower,scores={cat_height=78}] at @s run function kitten_tag:game/cat_tower/teleport
+execute as @e[tag=cat_tower,scores={cat_height=77}] at @s run function kitten_tag:game/cat_tower/teleport
+execute as @e[tag=cat_tower,scores={cat_height=76}] at @s run function kitten_tag:game/cat_tower/teleport
+execute as @e[tag=cat_tower,scores={cat_height=75}] at @s run function kitten_tag:game/cat_tower/teleport
+execute as @e[tag=cat_tower,scores={cat_height=74}] at @s run function kitten_tag:game/cat_tower/teleport
+execute as @e[tag=cat_tower,scores={cat_height=73}] at @s run function kitten_tag:game/cat_tower/teleport
+execute as @e[tag=cat_tower,scores={cat_height=72}] at @s run function kitten_tag:game/cat_tower/teleport
+execute as @e[tag=cat_tower,scores={cat_height=71}] at @s run function kitten_tag:game/cat_tower/teleport

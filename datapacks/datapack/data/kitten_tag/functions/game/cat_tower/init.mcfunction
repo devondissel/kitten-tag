@@ -1,0 +1,10 @@
+execute if entity @a[scores={kill_count=91..}] run function kitten_tag:game/cat_tower/run_100
+execute if entity @a[scores={kill_count=81..}] run function kitten_tag:game/cat_tower/run_90
+execute if entity @a[scores={kill_count=71..}] run function kitten_tag:game/cat_tower/run_80
+execute if entity @a[scores={kill_count=61..}] run function kitten_tag:game/cat_tower/run_70
+execute if entity @a[scores={kill_count=51..}] run function kitten_tag:game/cat_tower/run_60
+execute if entity @a[scores={kill_count=41..}] run function kitten_tag:game/cat_tower/run_50
+execute if entity @a[scores={kill_count=31..}] run function kitten_tag:game/cat_tower/run_40
+execute if entity @a[scores={kill_count=21..}] run function kitten_tag:game/cat_tower/run_30
+execute if entity @a[scores={kill_count=11..}] run function kitten_tag:game/cat_tower/run_20
+execute if entity @a[scores={kill_count=1..}] run function kitten_tag:game/cat_tower/run_10
